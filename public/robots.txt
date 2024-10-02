@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://ethtool.raininfotech.in/sitemap.xml
